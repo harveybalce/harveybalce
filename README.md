@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open-source projects related to ERPNext and cloud-based business solutions.
 - 🤔 I’m looking for help enhancing my capstone project's functionalities and user interface.
 - 💬 Ask me about ERPNext, Python, and web development.
-- 📫 How to reach me: harveybalce@example.com
+- 📫 How to reach me: harvey.balce@yahoo.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new technologies and their applications in solving real-world problems.
 
